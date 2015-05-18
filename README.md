@@ -5,5 +5,7 @@ This is where you put important shit about the project but since there is no pro
 
 But what if I told you this is the project?
 
+Then this must be where we put the important shit.
+
 ## License
 [MIT License](LICENSE)
