@@ -1,5 +1,5 @@
 # edit-my-readme
-Edit my README is based on this [blog post](https://ryanseys.com/blog/contribute-to-readmes/). It's easy to start contributing!
+Edit my README is based on this [blog post](https://ryanseys.com/post/contribute-to-readmes). It's easy to start contributing!
 
 This is where you put important shit about the project but since there is no project this is kinda difficult.
 
